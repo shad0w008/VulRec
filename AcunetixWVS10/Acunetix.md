@@ -2,7 +2,7 @@
 
 # 使用方法
 
-- Run script with <localport> <msf地址>
+- Run script with localport <msf地址>
 
 ```
 Acunetixy.py  9999 172.16.24.1
